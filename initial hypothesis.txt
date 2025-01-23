@@ -1,0 +1,7 @@
+initial hypothesis is that users begin their days at home, travel to an office, and then return home. Interested to see how clustering based on time of day can reveal the home vs office, or residential vs downtown areas based on density of tweets. 
+
+I also expect there to be some power users or high quartile users that post a disproportionate amount compared to a casual user. 
+
+Will also check for corporate accounts that may be posting at the same time every day from the same location. 
+
+interested to see how the geo data differs from week day to week end. 
