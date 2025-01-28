@@ -1,0 +1,3 @@
+97.78196978569031 seconds with 1,000,000 records, initial code
+99.23297929763794, 99.32264399528503 with 1,000,000 records, added vectorized code but not running, end of script commented out
+0.819807767868042 with 1,000,000 records, vectorized code running

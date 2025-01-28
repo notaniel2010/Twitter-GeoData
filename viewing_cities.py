@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 cities = pd.read_csv('uscities.csv')
 
-#print(cities.head(10))
+print(cities.head(10))
 types = cities.dtypes
 print(types)
 rows = len(cities)
